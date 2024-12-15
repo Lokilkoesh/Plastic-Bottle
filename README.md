@@ -1,5 +1,5 @@
 # Plastic-Bottle
-   C:\Users\Lokesh\Downloads\Catia Images\IMG-20241215-WA0009.jpg
+   IMG-20241215-WA0009.jpg
  Plastic Bottle Design in CATIA V5
 
 This repository contains a plastic bottle design created in CATIA V5. The project includes both the 3D model (`.CATPart` file) and a 2D drawing (`.PDF`/`.PNG` files).
