@@ -3,7 +3,7 @@
            ![IMG-20241215-WA0009](https://github.com/user-attachments/assets/00a91cd7-bc3a-4dbf-818f-3a98bb3f23e1)
 This repository contains a plastic bottle design created in CATIA V5. The project includes both the 3D model (`.CATPart` file) and a 2D drawing (`.PDF`/`.PNG` files).
 
-                 https://github.com/user-attachments/assets/e38e5853-786f-4fe1-b53d-d68c2cb68559
+                
 
 ## Design Process
 
@@ -39,3 +39,5 @@ This repository contains a plastic bottle design created in CATIA V5. The projec
   - Create a new **.CATProduct** file.
   - Insert the bottle part and the cap as components.
   - Apply **Assembly Constraints** to position the parts correctly.
+ 
+   https://github.com/user-attachments/assets/e38e5853-786f-4fe1-b53d-d68c2cb68559
